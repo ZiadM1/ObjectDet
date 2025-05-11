@@ -1,1 +1,1 @@
-opencv-python-headless>=4.7.0
+python_version = "3.10"
